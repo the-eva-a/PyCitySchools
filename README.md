@@ -1,4 +1,4 @@
-#Pandas Challenge
+# PyCitySchools
 ## Overview
 
 This Python project analyzes data from the PyCity School District to understand trends in academic performance and budget distribution across 15 schools. The analysis includes metrics such as average math and reading scores, passing rates, and the relationship between per-student spending and performance.
